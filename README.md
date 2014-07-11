@@ -1,4 +1,4 @@
 mafaik.github.io
 ================
 
-My Personal Train Of Thought
+My Train Of Thought | http://putusudarma.me
