@@ -43,7 +43,7 @@
                     </li>
                     {% endif %}
                 </ul>
-                <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+                <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }} <br /> Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> & <a href="http://github.com" target="_blank">Github</a></p>
             </div>
         </div>
     </div>
@@ -54,3 +54,25 @@
 
 <!-- Bootstrap Core JavaScript -->
 <script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/clean-blog.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/timeline/main.js " | prepend: site.baseurl }}"></script>
+<script>
+    $(document).ready(function() {
+        $('.popup').click(function(event) {
+            var width  = 575,
+                height = 400,
+                left   = ($(window).width()  - width)  / 2,
+                top    = ($(window).height() - height) / 2,
+                url    = this.href,
+                opts   = 'status=1' +
+                         ',width='  + width  +
+                         ',height=' + height +
+                         ',top='    + top    +
+                         ',left='   + left;
+            
+            window.open(url, 'twitter', opts);
+         
+            return false;
+        });
+    });
+</script>
