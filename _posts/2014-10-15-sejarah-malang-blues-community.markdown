@@ -1,5 +1,5 @@
 ---
-layout:     post-full
+layout:     timeline-post
 title:      "Malang Blues Community"
 subtitle:   "Sejarah, lika-liku, dan perkembangannya"
 date:       2014-10-15 12:00:00
