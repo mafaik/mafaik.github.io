@@ -1,0 +1,15 @@
+/* TAMBAHAN */
+.fb {
+    color: #3b5998 !important;
+}
+
+.tw {
+    color: #00acee !important;
+}
+.setOpa {
+    opacity: .8;
+}
+
+a.setOpa:hover,a.setOpa:focus {
+    opacity: 1;
+}
