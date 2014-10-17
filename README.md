@@ -1,4 +1,4 @@
-www.putusudarma.me
+putusudarma.me
 ================
 
 My Train Of Thought
