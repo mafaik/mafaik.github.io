@@ -15,7 +15,7 @@ category:	"music"
 Tiket konser awalnya dibagi menjadi 2 kelas, yakni Festival A dengan harga Rp. 1.250.000, Festival B dengan harga Rp. 750.000. Namun, sekitar seminggu sebelum hari H, dibuka tiket kelas Festival C dengan harga Rp. 500.000.
 
 Berikut adalah venue layout:
-![alt text]({{ site.baseurl }}/img/posts/Venue-Layout-Dream-Theater-2014.jpg "Venue Layout Dream Theater Jakarta 2014")
+<img class="img-responsive center-block" src="{{ site.baseurl }}/img/posts/Venue-Layout-Dream-Theater-2014.jpg" alt="Venue Layout Dream Theater Jakarta 2014" width="560">
 
 Sesuatu yang saya tidak nyaman saat pelaksanaan konser ini adalah buruknya sistem masuk ke venue. **Tidak karuan!**
 
@@ -27,7 +27,7 @@ Gate A saat itu seharusnya dibuka pukul 17.00, namun molor sampai kira-kira 17.3
 
 Gate C pun, ternyata hanya gate biasa, dijaga oleh security dan panitia. Disitu, peserta disuruh duduk dan panitia mengumumkan jika selama konser dilarang merekam dan memfoto menggunakan flash. mereka mengumumkan tanpa memakai pengeras suara. Ya gimana temen-temen yang lain denger? dari situ saya sudah beranggapan persiapan panitia kurang matang.
 
-<iframe src="https://www.flickr.com/photos/129660385@N08/15920562472/in/set-72157647221307564/player/" width="75" height="75" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe class="center-block" src="https://www.flickr.com/photos/129660385@N08/15920562472/in/set-72157647221307564/player/" width="100%" height="75" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 sekitar 10 menit kami menunggu di Gate C, akhirnya kami dipersilahkan untuk masuk venue berdasarkan kelas tiket yang dimiliki. Penonton langsung berlarian dengan harapan dapet first row. Waktu itu saya berlari menuju sisi kanan. sesaat sebelum masuk area Festival B (Entrance Fest-B), ada satu tenda kecil dengan seorang panita tanpa ada gate, ataupun security yang mana para penonton waktu itu bergerumul tanpa aturan mengelilingi panitia tersebut. Ternyata disitulah ticket checking. **COK!**
 
