@@ -52,4 +52,4 @@ Losing my mind <br>
 And i can’t explain
 </p>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/EEp7B9EJs-0" frameborder="0" allowfullscreen></iframe>
+<iframe class="center-block" width="560" height="315" src="//www.youtube.com/embed/EEp7B9EJs-0" frameborder="0" allowfullscreen></iframe>
