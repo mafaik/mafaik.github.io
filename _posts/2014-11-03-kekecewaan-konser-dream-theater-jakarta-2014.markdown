@@ -29,7 +29,7 @@ Gate C pun, ternyata hanya gate biasa, dijaga oleh security dan panitia. Disitu,
 
 <iframe class="center-block" src="https://www.flickr.com/photos/129660385@N08/15920562472/in/set-72157647221307564/player/" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-sekitar 10 menit kami menunggu di Gate C, akhirnya kami dipersilahkan untuk masuk venue berdasarkan kelas tiket yang dimiliki. Penonton langsung berlarian dengan harapan dapet first row. Waktu itu saya berlari menuju sisi kanan. sesaat sebelum masuk area Festival B (Entrance Fest-B), ada satu tenda kecil dengan seorang panita tanpa ada gate, ataupun security yang mana para penonton waktu itu bergerumul tanpa aturan mengelilingi panitia tersebut. Ternyata disitulah ticket checking. **COK!**
+Sekitar 10 menit kami menunggu di Gate C, akhirnya kami dipersilahkan untuk masuk venue berdasarkan kelas tiket yang dimiliki. Penonton langsung berlarian dengan harapan dapet first row. Waktu itu saya berlari menuju sisi kanan. sesaat sebelum masuk area Festival B (Entrance Fest-B), ada satu tenda kecil dengan seorang panita tanpa ada gate, ataupun security yang mana para penonton waktu itu bergerumul tanpa aturan mengelilingi panitia tersebut. Ternyata disitulah ticket checking. **COK!**
 
 Saya gak mempedulikan itu, orang gak ada yang jaga, seakan kerumunan tersebut ada bagi-bagi stiker gratis. langsung saja saya masuk ke area festival A. di pintu masuk area tersebut ada seorang panitia dan beberapa security yang berjaga. Namun, mereka hanya memperingatkan kami untuk hati-hati, karena di pintu masuk itu ada bongkahan batu-bata yang mereka takut kami akan tersandung.
 
