@@ -10,7 +10,7 @@ category:	"music"
 
 ### An Evening With Dream Theater
 
-8 hari lalu, 26 Oktober 2014 **Dream Theater** kembali mengadakan konser di Jakarta, Indonesia untuk ke-2 kalinya. Konser ini diselenggarakan melalui **Variant Entertainment**, promotor yang sama seperti konser Dream Theater 2 tahun lalu. Venue konser kali ini bertempat di **Lapangan D Senayan**. Konser ini merupakan rangkaian world tour tahun 2014 untuk mempromosikan album terbaru mereka **Dream Theater** dengan judul *Along For The Ride*.
+8 hari lalu, 26 Oktober 2014 **Dream Theater** kembali mengadakan konser di Jakarta, Indonesia untuk ke-2 kalinya. Konser ini diselenggarakan melalui **Variant Entertainment**, promotor yang sama seperti konser Dream Theater 2 tahun lalu. Venue konser kali ini bertempat di **Lapangan D Senayan**. Konser ini merupakan rangkaian world tour tahun 2014 untuk mempromosikan album *self-titled* terbaru mereka, **Dream Theater** dengan judul tour *Along For The Ride*.
 
 Tiket konser awalnya dibagi menjadi 2 kelas, yakni Festival A dengan harga Rp. 1.250.000, Festival B dengan harga Rp. 750.000. Namun, sekitar seminggu sebelum hari H, dibuka tiket kelas Festival C dengan harga Rp. 500.000.
 
