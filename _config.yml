@@ -12,3 +12,6 @@ markdown: kramdown
 permalink: pretty
 paginate: 5
 highlighter: rouge
+
+gems:
+  - jekyll-sitemap
