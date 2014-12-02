@@ -5,8 +5,9 @@ description: "Train of Thought"
 header-img: "img/track.jpg"
 ---
 
+<section itemscope itemtype="http://schema.org/Blog">
 {% for post in paginator.posts %}
-<div class="post-preview">
+<div class="post-preview" itemprop="blogPost" itemscope itemtype="http://schema.org/Blog">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
@@ -21,6 +22,7 @@ header-img: "img/track.jpg"
 </div>
 <hr>
 {% endfor %}
+</section>
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
